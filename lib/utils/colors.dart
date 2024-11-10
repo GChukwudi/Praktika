@@ -26,4 +26,7 @@ class AppColors {
 
   // text colors
   static const Color textBlack = Color(0xff202020);
+  static const Color textWhite = Color(0xffffffff);
+  static const Color textYellow = Color(0xfffff475);
+  static const Color textPurple = Color(0xffb39ddb);
 }
